@@ -1,0 +1,53 @@
+body{
+    background: red;
+}
+
+h1{
+    text-align: center;
+}
+button{
+    margin-top: 25px;
+    display:block;
+    margin: auto;
+    height: 50px;
+    width: 85px;
+}
+.ncaa-image {
+    display:block;
+    margin: auto;
+    border-style: solid;
+    border-color: #000;
+}
+
+
+
+/* javascript colors and html */
+#question{
+    height: 55px;
+    width: 55px;
+    font-size: 8pt;
+    display: left;
+    margin: auto;
+}
+h5{
+    text-align: center;
+}
+#choice1, #choice2, #choice3, #choice4, #choice5{
+    float: left;
+}
+#c0, #c1, #c2, #c3, #c4, #c5{
+    margin-top: 35px;
+    margin-bottom: 15px;
+    font-size: 22pt;
+    color: #000;
+}
+#gameArea{
+    background-image: url("../images/2067929-football-field-green-grass-background-texture-.jpg");
+    border-style: ridge;
+    border-color: black;
+    border-radius: 5px;
+    height: 2280px;
+    width: 85%;
+    display: block;
+    margin: auto;
+}
